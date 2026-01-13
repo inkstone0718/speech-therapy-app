@@ -1,0 +1,1584 @@
+{
+  "vocabulary": [
+    
+    { "text": "爸爸", "initial": "ㄅ", "syllables": 2, "targetIndex": 0
+    },
+    { "text": "白兔", "initial": "ㄅ", "syllables": 2, "targetIndex": 0
+    },
+    { "text": "包子", "initial": "ㄅ", "syllables": 2, "targetIndex": 0
+    },
+    { "text": "杯子", "initial": "ㄅ", "syllables": 2, "targetIndex": 0
+    },
+    { "text": "布偶", "initial": "ㄅ", "syllables": 2, "targetIndex": 0
+    },
+    { "text": "冰山", "initial": "ㄅ", "syllables": 2, "targetIndex": 0
+    },
+    { "text": "蝙蝠", "initial": "ㄅ", "syllables": 2, "targetIndex": 0
+    },
+    { "text": "餅乾", "initial": "ㄅ", "syllables": 2, "targetIndex": 0
+    },
+    { "text": "斑馬", "initial": "ㄅ", "syllables": 2, "targetIndex": 0
+    },
+    { "text": "寶箱", "initial": "ㄅ", "syllables": 2, "targetIndex": 0
+    },
+    { "text": "貝殼", "initial": "ㄅ", "syllables": 2, "targetIndex": 0
+    },
+    { "text": "壁虎", "initial": "ㄅ", "syllables": 2, "targetIndex": 0
+    },
+    { "text": "冰棒", "initial": "ㄅ", "syllables": 2, "targetIndex": 0
+    },
+    { "text": "筆盒", "initial": "ㄅ", "syllables": 2, "targetIndex": 0
+    },
+    { "text": "布鞋", "initial": "ㄅ", "syllables": 2, "targetIndex": 0
+    },
+    { "text": "白雲", "initial": "ㄅ", "syllables": 2, "targetIndex": 0
+    },
+    { "text": "包包", "initial": "ㄅ", "syllables": 2, "targetIndex": 0
+    },
+    { "text": "寶石", "initial": "ㄅ", "syllables": 2, "targetIndex": 0
+    },
+    { "text": "冰球", "initial": "ㄅ", "syllables": 2, "targetIndex": 0
+    },
+    { "text": "布袋", "initial": "ㄅ", "syllables": 2, "targetIndex": 0
+    },
+    
+    { "text": "書包", "initial": "ㄅ", "syllables": 2, "targetIndex": 1
+    },
+    { "text": "麵包", "initial": "ㄅ", "syllables": 2, "targetIndex": 1
+    },
+    { "text": "漢堡", "initial": "ㄅ", "syllables": 2, "targetIndex": 1
+    },
+    { "text": "手臂", "initial": "ㄅ", "syllables": 2, "targetIndex": 1
+    },
+    { "text": "背包", "initial": "ㄅ", "syllables": 2, "targetIndex": 1
+    },
+    { "text": "鉛筆", "initial": "ㄅ", "syllables": 2, "targetIndex": 1
+    },
+    { "text": "城堡", "initial": "ㄅ", "syllables": 2, "targetIndex": 1
+    },
+    { "text": "錢包", "initial": "ㄅ", "syllables": 2, "targetIndex": 1
+    },
+    { "text": "黑板", "initial": "ㄅ", "syllables": 2, "targetIndex": 1
+    },
+    { "text": "滑板", "initial": "ㄅ", "syllables": 2, "targetIndex": 1
+    },
+    { "text": "地板", "initial": "ㄅ", "syllables": 2, "targetIndex": 1
+    },
+    { "text": "花瓶", "initial": "ㄅ", "syllables": 2, "targetIndex": 1
+    },
+    { "text": "書本", "initial": "ㄅ", "syllables": 2, "targetIndex": 1
+    },
+    { "text": "白筆", "initial": "ㄅ", "syllables": 2, "targetIndex": 1
+    },
+    { "text": "牆壁", "initial": "ㄅ", "syllables": 2, "targetIndex": 1
+    },
+    { "text": "皮包", "initial": "ㄅ", "syllables": 2, "targetIndex": 1
+    },
+    { "text": "小本", "initial": "ㄅ", "syllables": 2, "targetIndex": 1
+    },
+    { "text": "彩筆", "initial": "ㄅ", "syllables": 2, "targetIndex": 1
+    },
+    { "text": "木板", "initial": "ㄅ", "syllables": 2, "targetIndex": 1
+    },
+    { "text": "石碑", "initial": "ㄅ", "syllables": 2, "targetIndex": 1
+    },
+    
+    { "text": "百香果", "initial": "ㄅ", "syllables": 3, "targetIndex": 0
+    },
+    { "text": "冰淇淋", "initial": "ㄅ", "syllables": 3, "targetIndex": 0
+    },
+    { "text": "布娃娃", "initial": "ㄅ", "syllables": 3, "targetIndex": 0
+    },
+    { "text": "筆記本", "initial": "ㄅ", "syllables": 3, "targetIndex": 0
+    },
+    { "text": "白蘿蔔", "initial": "ㄅ", "syllables": 3, "targetIndex": 0
+    },
+    { "text": "便利貼", "initial": "ㄅ", "syllables": 3, "targetIndex": 0
+    },
+    { "text": "爆米花", "initial": "ㄅ", "syllables": 3, "targetIndex": 0
+    },
+    { "text": "保溫瓶", "initial": "ㄅ", "syllables": 3, "targetIndex": 0
+    },
+    { "text": "布丁狗", "initial": "ㄅ", "syllables": 3, "targetIndex": 0
+    },
+    { "text": "冰塊盒", "initial": "ㄅ", "syllables": 3, "targetIndex": 0
+    },
+    { "text": "白鴿子", "initial": "ㄅ", "syllables": 3, "targetIndex": 0
+    },
+    { "text": "寶藏箱", "initial": "ㄅ", "syllables": 3, "targetIndex": 0
+    },
+    { "text": "玻璃杯", "initial": "ㄅ", "syllables": 3, "targetIndex": 0
+    },
+    { "text": "棒棒糖", "initial": "ㄅ", "syllables": 3, "targetIndex": 0
+    },
+    { "text": "冰沙杯", "initial": "ㄅ", "syllables": 3, "targetIndex": 0
+    },
+    
+    { "text": "小白板", "initial": "ㄅ", "syllables": 3, "targetIndex": 1
+    },
+    { "text": "紅寶石", "initial": "ㄅ", "syllables": 3, "targetIndex": 1
+    },
+    { "text": "大冰箱", "initial": "ㄅ", "syllables": 3, "targetIndex": 1
+    },
+    { "text": "藍背包", "initial": "ㄅ", "syllables": 3, "targetIndex": 1
+    },
+    { "text": "圓布丁", "initial": "ㄅ", "syllables": 3, "targetIndex": 1
+    },
+    { "text": "小筆盒", "initial": "ㄅ", "syllables": 3, "targetIndex": 1
+    },
+    { "text": "紅白筆", "initial": "ㄅ", "syllables": 3, "targetIndex": 1
+    },
+    { "text": "大寶箱", "initial": "ㄅ", "syllables": 3, "targetIndex": 1
+    },
+    { "text": "新本子", "initial": "ㄅ", "syllables": 3, "targetIndex": 1
+    },
+    { "text": "黃布偶", "initial": "ㄅ", "syllables": 3, "targetIndex": 1
+    },
+    { "text": "小白兔", "initial": "ㄅ", "syllables": 3, "targetIndex": 1
+    },
+    { "text": "綠冰棒", "initial": "ㄅ", "syllables": 3, "targetIndex": 1
+    },
+    { "text": "大餅乾", "initial": "ㄅ", "syllables": 3, "targetIndex": 1
+    },
+    { "text": "黑板擦", "initial": "ㄅ", "syllables": 3, "targetIndex": 1
+    },
+    { "text": "新布鞋", "initial": "ㄅ", "syllables": 3, "targetIndex": 1
+    },
+    
+    { "text": "小書包", "initial": "ㄅ", "syllables": 3, "targetIndex": 2
+    },
+    { "text": "紅麵包", "initial": "ㄅ", "syllables": 3, "targetIndex": 2
+    },
+    { "text": "大漢堡", "initial": "ㄅ", "syllables": 3, "targetIndex": 2
+    },
+    { "text": "長手臂", "initial": "ㄅ", "syllables": 3, "targetIndex": 2
+    },
+    { "text": "新背包", "initial": "ㄅ", "syllables": 3, "targetIndex": 2
+    },
+    { "text": "藍鉛筆", "initial": "ㄅ", "syllables": 3, "targetIndex": 2
+    },
+    { "text": "舊城堡", "initial": "ㄅ", "syllables": 3, "targetIndex": 2
+    },
+    { "text": "厚錢包", "initial": "ㄅ", "syllables": 3, "targetIndex": 2
+    },
+    { "text": "大黑板", "initial": "ㄅ", "syllables": 3, "targetIndex": 2
+    },
+    { "text": "木滑板", "initial": "ㄅ", "syllables": 3, "targetIndex": 2
+    },
+    { "text": "新地板", "initial": "ㄅ", "syllables": 3, "targetIndex": 2
+    },
+    { "text": "小花瓶", "initial": "ㄅ", "syllables": 3, "targetIndex": 2
+    },
+    { "text": "厚書本", "initial": "ㄅ", "syllables": 3, "targetIndex": 2
+    },
+    { "text": "彩牆壁", "initial": "ㄅ", "syllables": 3, "targetIndex": 2
+    },
+    { "text": "舊皮包", "initial": "ㄅ", "syllables": 3, "targetIndex": 2
+    },
+    [
+      {
+        "text": "皮球",
+        "initial": "ㄆ",
+        "syllables": 2,
+        "targetIndex": 0
+      },
+      {
+        "text": "葡萄",
+        "initial": "ㄆ",
+        "syllables": 2,
+        "targetIndex": 0
+      },
+      {
+        "text": "泡泡",
+        "initial": "ㄆ",
+        "syllables": 2,
+        "targetIndex": 0
+      },
+      {
+        "text": "披風",
+        "initial": "ㄆ",
+        "syllables": 2,
+        "targetIndex": 0
+      },
+      {
+        "text": "蘋果",
+        "initial": "ㄆ",
+        "syllables": 2,
+        "targetIndex": 0
+      },
+      {
+        "text": "胖貓",
+        "initial": "ㄆ",
+        "syllables": 2,
+        "targetIndex": 0
+      },
+      {
+        "text": "拼圖",
+        "initial": "ㄆ",
+        "syllables": 2,
+        "targetIndex": 0
+      },
+      {
+        "text": "皮鞋",
+        "initial": "ㄆ",
+        "syllables": 2,
+        "targetIndex": 0
+      },
+      {
+        "text": "盤子",
+        "initial": "ㄆ",
+        "syllables": 2,
+        "targetIndex": 0
+      },
+      {
+        "text": "披薩",
+        "initial": "ㄆ",
+        "syllables": 2,
+        "targetIndex": 0
+      },
+      {
+        "text": "瓶子",
+        "initial": "ㄆ",
+        "syllables": 2,
+        "targetIndex": 0
+      },
+      {
+        "text": "撲滿",
+        "initial": "ㄆ",
+        "syllables": 2,
+        "targetIndex": 0
+      },
+      {
+        "text": "皮帶",
+        "initial": "ㄆ",
+        "syllables": 2,
+        "targetIndex": 0
+      },
+      {
+        "text": "皮包",
+        "initial": "ㄆ",
+        "syllables": 2,
+        "targetIndex": 0
+      },
+      {
+        "text": "跑車",
+        "initial": "ㄆ",
+        "syllables": 2,
+        "targetIndex": 0
+      },
+      {
+        "text": "皮尺",
+        "initial": "ㄆ",
+        "syllables": 2,
+        "targetIndex": 0
+      },
+      {
+        "text": "皮艇",
+        "initial": "ㄆ",
+        "syllables": 2,
+        "targetIndex": 0
+      },
+      {
+        "text": "皮鼓",
+        "initial": "ㄆ",
+        "syllables": 2,
+        "targetIndex": 0
+      },
+      {
+        "text": "皮帽",
+        "initial": "ㄆ",
+        "syllables": 2,
+        "targetIndex": 0
+      },
+      {
+        "text": "皮箱",
+        "initial": "ㄆ",
+        "syllables": 2,
+        "targetIndex": 0
+      },
+      {
+        "text": "書皮",
+        "initial": "ㄆ",
+        "syllables": 2,
+        "targetIndex": 1
+      },
+      {
+        "text": "桌牌",
+        "initial": "ㄆ",
+        "syllables": 2,
+        "targetIndex": 1
+      },
+      {
+        "text": "花盆",
+        "initial": "ㄆ",
+        "syllables": 2,
+        "targetIndex": 1
+      },
+      {
+        "text": "門牌",
+        "initial": "ㄆ",
+        "syllables": 2,
+        "targetIndex": 1
+      },
+      {
+        "text": "燈泡",
+        "initial": "ㄆ",
+        "syllables": 2,
+        "targetIndex": 1
+      },
+      {
+        "text": "木盆",
+        "initial": "ㄆ",
+        "syllables": 2,
+        "targetIndex": 1
+      },
+      {
+        "text": "鐵盤",
+        "initial": "ㄆ",
+        "syllables": 2,
+        "targetIndex": 1
+      },
+      {
+        "text": "紙牌",
+        "initial": "ㄆ",
+        "syllables": 2,
+        "targetIndex": 1
+      },
+      {
+        "text": "杯盤",
+        "initial": "ㄆ",
+        "syllables": 2,
+        "targetIndex": 1
+      },
+      {
+        "text": "銅盆",
+        "initial": "ㄆ",
+        "syllables": 2,
+        "targetIndex": 1
+      },
+      {
+        "text": "臉盆",
+        "initial": "ㄆ",
+        "syllables": 2,
+        "targetIndex": 1
+      },
+      {
+        "text": "菜盤",
+        "initial": "ㄆ",
+        "syllables": 2,
+        "targetIndex": 1
+      },
+      {
+        "text": "磁盤",
+        "initial": "ㄆ",
+        "syllables": 2,
+        "targetIndex": 1
+      },
+      {
+        "text": "花牌",
+        "initial": "ㄆ",
+        "syllables": 2,
+        "targetIndex": 1
+      },
+      {
+        "text": "茶盤",
+        "initial": "ㄆ",
+        "syllables": 2,
+        "targetIndex": 1
+      },
+      {
+        "text": "木牌",
+        "initial": "ㄆ",
+        "syllables": 2,
+        "targetIndex": 1
+      },
+      {
+        "text": "地盤",
+        "initial": "ㄆ",
+        "syllables": 2,
+        "targetIndex": 1
+      },
+      {
+        "text": "鍵盤",
+        "initial": "ㄆ",
+        "syllables": 2,
+        "targetIndex": 1
+      },
+      {
+        "text": "唱盤",
+        "initial": "ㄆ",
+        "syllables": 2,
+        "targetIndex": 1
+      },
+      {
+        "text": "書盤",
+        "initial": "ㄆ",
+        "syllables": 2,
+        "targetIndex": 1
+      },
+      {
+        "text": "泡泡糖",
+        "initial": "ㄆ",
+        "syllables": 3,
+        "targetIndex": 0
+      },
+      {
+        "text": "蘋果樹",
+        "initial": "ㄆ",
+        "syllables": 3,
+        "targetIndex": 0
+      },
+      {
+        "text": "皮卡丘",
+        "initial": "ㄆ",
+        "syllables": 3,
+        "targetIndex": 0
+      },
+      {
+        "text": "披風帽",
+        "initial": "ㄆ",
+        "syllables": 3,
+        "targetIndex": 0
+      },
+      {
+        "text": "葡萄汁",
+        "initial": "ㄆ",
+        "syllables": 3,
+        "targetIndex": 0
+      },
+      {
+        "text": "拼圖盒",
+        "initial": "ㄆ",
+        "syllables": 3,
+        "targetIndex": 0
+      },
+      {
+        "text": "皮手套",
+        "initial": "ㄆ",
+        "syllables": 3,
+        "targetIndex": 0
+      },
+      {
+        "text": "皮皮球",
+        "initial": "ㄆ",
+        "syllables": 3,
+        "targetIndex": 0
+      },
+      {
+        "text": "皮鞋盒",
+        "initial": "ㄆ",
+        "syllables": 3,
+        "targetIndex": 0
+      },
+      {
+        "text": "泡泡杯",
+        "initial": "ㄆ",
+        "syllables": 3,
+        "targetIndex": 0
+      },
+      {
+        "text": "皮書包",
+        "initial": "ㄆ",
+        "syllables": 3,
+        "targetIndex": 0
+      },
+      {
+        "text": "皮圍巾",
+        "initial": "ㄆ",
+        "syllables": 3,
+        "targetIndex": 0
+      },
+      {
+        "text": "皮盒彩",
+        "initial": "ㄆ",
+        "syllables": 3,
+        "targetIndex": 0
+      },
+      {
+        "text": "皮鼓棒",
+        "initial": "ㄆ",
+        "syllables": 3,
+        "targetIndex": 0
+      },
+      {
+        "text": "皮帽子",
+        "initial": "ㄆ",
+        "syllables": 3,
+        "targetIndex": 0
+      },
+      {
+        "text": "小皮球",
+        "initial": "ㄆ",
+        "syllables": 3,
+        "targetIndex": 1
+      },
+      {
+        "text": "紅蘋果",
+        "initial": "ㄆ",
+        "syllables": 3,
+        "targetIndex": 1
+      },
+      {
+        "text": "大泡泡",
+        "initial": "ㄆ",
+        "syllables": 3,
+        "targetIndex": 1
+      },
+      {
+        "text": "新拼圖",
+        "initial": "ㄆ",
+        "syllables": 3,
+        "targetIndex": 1
+      },
+      {
+        "text": "藍皮鞋",
+        "initial": "ㄆ",
+        "syllables": 3,
+        "targetIndex": 1
+      },
+      {
+        "text": "厚皮包",
+        "initial": "ㄆ",
+        "syllables": 3,
+        "targetIndex": 1
+      },
+      {
+        "text": "大盤子",
+        "initial": "ㄆ",
+        "syllables": 3,
+        "targetIndex": 1
+      },
+      {
+        "text": "白披薩",
+        "initial": "ㄆ",
+        "syllables": 3,
+        "targetIndex": 1
+      },
+      {
+        "text": "小皮箱",
+        "initial": "ㄆ",
+        "syllables": 3,
+        "targetIndex": 1
+      },
+      {
+        "text": "紅皮帽",
+        "initial": "ㄆ",
+        "syllables": 3,
+        "targetIndex": 1
+      },
+      {
+        "text": "新皮帶",
+        "initial": "ㄆ",
+        "syllables": 3,
+        "targetIndex": 1
+      },
+      {
+        "text": "大皮鼓",
+        "initial": "ㄆ",
+        "syllables": 3,
+        "targetIndex": 1
+      },
+      {
+        "text": "藍皮艇",
+        "initial": "ㄆ",
+        "syllables": 3,
+        "targetIndex": 1
+      },
+      {
+        "text": "厚皮箱",
+        "initial": "ㄆ",
+        "syllables": 3,
+        "targetIndex": 1
+      },
+      {
+        "text": "新皮包",
+        "initial": "ㄆ",
+        "syllables": 3,
+        "targetIndex": 1
+      },
+      {
+        "text": "小書皮",
+        "initial": "ㄆ",
+        "syllables": 3,
+        "targetIndex": 2
+      },
+      {
+        "text": "紅門牌",
+        "initial": "ㄆ",
+        "syllables": 3,
+        "targetIndex": 2
+      },
+      {
+        "text": "大花盆",
+        "initial": "ㄆ",
+        "syllables": 3,
+        "targetIndex": 2
+      },
+      {
+        "text": "白燈泡",
+        "initial": "ㄆ",
+        "syllables": 3,
+        "targetIndex": 2
+      },
+      {
+        "text": "新木盆",
+        "initial": "ㄆ",
+        "syllables": 3,
+        "targetIndex": 2
+      },
+      {
+        "text": "小鐵盤",
+        "initial": "ㄆ",
+        "syllables": 3,
+        "targetIndex": 2
+      },
+      {
+        "text": "藍鍵盤",
+        "initial": "ㄆ",
+        "syllables": 3,
+        "targetIndex": 2
+      },
+      {
+        "text": "厚臉盆",
+        "initial": "ㄆ",
+        "syllables": 3,
+        "targetIndex": 2
+      },
+      {
+        "text": "新紙牌",
+        "initial": "ㄆ",
+        "syllables": 3,
+        "targetIndex": 2
+      },
+      {
+        "text": "大菜盤",
+        "initial": "ㄆ",
+        "syllables": 3,
+        "targetIndex": 2
+      },
+      {
+        "text": "白木牌",
+        "initial": "ㄆ",
+        "syllables": 3,
+        "targetIndex": 2
+      },
+      {
+        "text": "紅茶盤",
+        "initial": "ㄆ",
+        "syllables": 3,
+        "targetIndex": 2
+      },
+      {
+        "text": "小磁盤",
+        "initial": "ㄆ",
+        "syllables": 3,
+        "targetIndex": 2
+      },
+      {
+        "text": "厚杯盤",
+        "initial": "ㄆ",
+        "syllables": 3,
+        "targetIndex": 2
+      },
+      {
+        "text": "新唱盤",
+        "initial": "ㄆ",
+        "syllables": 3,
+        "targetIndex": 2
+      },
+      {
+        "text": "貓咪",
+        "initial": "ㄇ",
+        "syllables": 2,
+        "targetIndex": 0
+      },
+      {
+        "text": "帽子",
+        "initial": "ㄇ",
+        "syllables": 2,
+        "targetIndex": 0
+      },
+      {
+        "text": "米飯",
+        "initial": "ㄇ",
+        "syllables": 2,
+        "targetIndex": 0
+      },
+      {
+        "text": "馬車",
+        "initial": "ㄇ",
+        "syllables": 2,
+        "targetIndex": 0
+      },
+      {
+        "text": "蜜蜂",
+        "initial": "ㄇ",
+        "syllables": 2,
+        "targetIndex": 0
+      },
+      {
+        "text": "門口",
+        "initial": "ㄇ",
+        "syllables": 2,
+        "targetIndex": 0
+      },
+      {
+        "text": "木馬",
+        "initial": "ㄇ",
+        "syllables": 2,
+        "targetIndex": 0
+      },
+      {
+        "text": "麵包",
+        "initial": "ㄇ",
+        "syllables": 2,
+        "targetIndex": 0
+      },
+      {
+        "text": "毛巾",
+        "initial": "ㄇ",
+        "syllables": 2,
+        "targetIndex": 0
+      },
+      {
+        "text": "馬桶",
+        "initial": "ㄇ",
+        "syllables": 2,
+        "targetIndex": 0
+      },
+      {
+        "text": "蜜糖",
+        "initial": "ㄇ",
+        "syllables": 2,
+        "targetIndex": 0
+      },
+      {
+        "text": "木門",
+        "initial": "ㄇ",
+        "syllables": 2,
+        "targetIndex": 0
+      },
+      {
+        "text": "木桌",
+        "initial": "ㄇ",
+        "syllables": 2,
+        "targetIndex": 0
+      },
+      {
+        "text": "麥片",
+        "initial": "ㄇ",
+        "syllables": 2,
+        "targetIndex": 0
+      },
+      {
+        "text": "毛帽",
+        "initial": "ㄇ",
+        "syllables": 2,
+        "targetIndex": 0
+      },
+      {
+        "text": "毛刷",
+        "initial": "ㄇ",
+        "syllables": 2,
+        "targetIndex": 0
+      },
+      {
+        "text": "毛筆",
+        "initial": "ㄇ",
+        "syllables": 2,
+        "targetIndex": 0
+      },
+      {
+        "text": "毛球",
+        "initial": "ㄇ",
+        "syllables": 2,
+        "targetIndex": 0
+      },
+      {
+        "text": "毛毯",
+        "initial": "ㄇ",
+        "syllables": 2,
+        "targetIndex": 0
+      },
+      {
+        "text": "毛襪",
+        "initial": "ㄇ",
+        "syllables": 2,
+        "targetIndex": 0
+      },
+      {
+        "text": "小貓",
+        "initial": "ㄇ",
+        "syllables": 2,
+        "targetIndex": 1
+      },
+      {
+        "text": "白帽",
+        "initial": "ㄇ",
+        "syllables": 2,
+        "targetIndex": 1
+      },
+      {
+        "text": "熱米",
+        "initial": "ㄇ",
+        "syllables": 2,
+        "targetIndex": 1
+      },
+      {
+        "text": "木馬",
+        "initial": "ㄇ",
+        "syllables": 2,
+        "targetIndex": 1
+      },
+      {
+        "text": "花蜜",
+        "initial": "ㄇ",
+        "syllables": 2,
+        "targetIndex": 1
+      },
+      {
+        "text": "大門",
+        "initial": "ㄇ",
+        "syllables": 2,
+        "targetIndex": 1
+      },
+      {
+        "text": "白馬",
+        "initial": "ㄇ",
+        "syllables": 2,
+        "targetIndex": 1
+      },
+      {
+        "text": "熱麵",
+        "initial": "ㄇ",
+        "syllables": 2,
+        "targetIndex": 1
+      },
+      {
+        "text": "乾毛",
+        "initial": "ㄇ",
+        "syllables": 2,
+        "targetIndex": 1
+      },
+      {
+        "text": "白米",
+        "initial": "ㄇ",
+        "syllables": 2,
+        "targetIndex": 1
+      },
+      {
+        "text": "舊門",
+        "initial": "ㄇ",
+        "syllables": 2,
+        "targetIndex": 1
+      },
+      {
+        "text": "新帽",
+        "initial": "ㄇ",
+        "syllables": 2,
+        "targetIndex": 1
+      },
+      {
+        "text": "白麥",
+        "initial": "ㄇ",
+        "syllables": 2,
+        "targetIndex": 1
+      },
+      {
+        "text": "紅毛",
+        "initial": "ㄇ",
+        "syllables": 2,
+        "targetIndex": 1
+      },
+      {
+        "text": "粗麻",
+        "initial": "ㄇ",
+        "syllables": 2,
+        "targetIndex": 1
+      },
+      {
+        "text": "黑墨",
+        "initial": "ㄇ",
+        "syllables": 2,
+        "targetIndex": 1
+      },
+      {
+        "text": "白木",
+        "initial": "ㄇ",
+        "syllables": 2,
+        "targetIndex": 1
+      },
+      {
+        "text": "細毛",
+        "initial": "ㄇ",
+        "syllables": 2,
+        "targetIndex": 1
+      },
+      {
+        "text": "新米",
+        "initial": "ㄇ",
+        "syllables": 2,
+        "targetIndex": 1
+      },
+      {
+        "text": "紅門",
+        "initial": "ㄇ",
+        "syllables": 2,
+        "targetIndex": 1
+      },
+      {
+        "text": "毛毛蟲",
+        "initial": "ㄇ",
+        "syllables": 3,
+        "targetIndex": 0
+      },
+      {
+        "text": "貓頭鷹",
+        "initial": "ㄇ",
+        "syllables": 3,
+        "targetIndex": 0
+      },
+      {
+        "text": "馬卡龍",
+        "initial": "ㄇ",
+        "syllables": 3,
+        "targetIndex": 0
+      },
+      {
+        "text": "棉花糖",
+        "initial": "ㄇ",
+        "syllables": 3,
+        "targetIndex": 0
+      },
+      {
+        "text": "毛筆盒",
+        "initial": "ㄇ",
+        "syllables": 3,
+        "targetIndex": 0
+      },
+      {
+        "text": "麥片碗",
+        "initial": "ㄇ",
+        "syllables": 3,
+        "targetIndex": 0
+      },
+      {
+        "text": "木馬車",
+        "initial": "ㄇ",
+        "syllables": 3,
+        "targetIndex": 0
+      },
+      {
+        "text": "毛毛球",
+        "initial": "ㄇ",
+        "syllables": 3,
+        "targetIndex": 0
+      },
+      {
+        "text": "毛手套",
+        "initial": "ㄇ",
+        "syllables": 3,
+        "targetIndex": 0
+      },
+      {
+        "text": "棉被套",
+        "initial": "ㄇ",
+        "syllables": 3,
+        "targetIndex": 0
+      },
+      {
+        "text": "貓砂盆",
+        "initial": "ㄇ",
+        "syllables": 3,
+        "targetIndex": 0
+      },
+      {
+        "text": "毛圍巾",
+        "initial": "ㄇ",
+        "syllables": 3,
+        "targetIndex": 0
+      },
+      {
+        "text": "毛線球",
+        "initial": "ㄇ",
+        "syllables": 3,
+        "targetIndex": 0
+      },
+      {
+        "text": "毛襪子",
+        "initial": "ㄇ",
+        "syllables": 3,
+        "targetIndex": 0
+      },
+      {
+        "text": "毛刷組",
+        "initial": "ㄇ",
+        "syllables": 3,
+        "targetIndex": 0
+      },
+      {
+        "text": "小貓咪",
+        "initial": "ㄇ",
+        "syllables": 3,
+        "targetIndex": 1
+      },
+      {
+        "text": "紅帽子",
+        "initial": "ㄇ",
+        "syllables": 3,
+        "targetIndex": 1
+      },
+      {
+        "text": "白米飯",
+        "initial": "ㄇ",
+        "syllables": 3,
+        "targetIndex": 1
+      },
+      {
+        "text": "木馬車",
+        "initial": "ㄇ",
+        "syllables": 3,
+        "targetIndex": 1
+      },
+      {
+        "text": "花蜜罐",
+        "initial": "ㄇ",
+        "syllables": 3,
+        "targetIndex": 1
+      },
+      {
+        "text": "大門口",
+        "initial": "ㄇ",
+        "syllables": 3,
+        "targetIndex": 1
+      },
+      {
+        "text": "白馬車",
+        "initial": "ㄇ",
+        "syllables": 3,
+        "targetIndex": 1
+      },
+      {
+        "text": "熱麵碗",
+        "initial": "ㄇ",
+        "syllables": 3,
+        "targetIndex": 1
+      },
+      {
+        "text": "毛毛巾",
+        "initial": "ㄇ",
+        "syllables": 3,
+        "targetIndex": 1
+      },
+      {
+        "text": "白米桶",
+        "initial": "ㄇ",
+        "syllables": 3,
+        "targetIndex": 1
+      },
+      {
+        "text": "舊木門",
+        "initial": "ㄇ",
+        "syllables": 3,
+        "targetIndex": 1
+      },
+      {
+        "text": "新毛帽",
+        "initial": "ㄇ",
+        "syllables": 3,
+        "targetIndex": 1
+      },
+      {
+        "text": "大麥片",
+        "initial": "ㄇ",
+        "syllables": 3,
+        "targetIndex": 1
+      },
+      {
+        "text": "紅毛線",
+        "initial": "ㄇ",
+        "syllables": 3,
+        "targetIndex": 1
+      },
+      {
+        "text": "粗麻繩",
+        "initial": "ㄇ",
+        "syllables": 3,
+        "targetIndex": 1
+      },
+      {
+        "text": "小白貓",
+        "initial": "ㄇ",
+        "syllables": 3,
+        "targetIndex": 2
+      },
+      {
+        "text": "大紅帽",
+        "initial": "ㄇ",
+        "syllables": 3,
+        "targetIndex": 2
+      },
+      {
+        "text": "熱白米",
+        "initial": "ㄇ",
+        "syllables": 3,
+        "targetIndex": 2
+      },
+      {
+        "text": "木小馬",
+        "initial": "ㄇ",
+        "syllables": 3,
+        "targetIndex": 2
+      },
+      {
+        "text": "甜花蜜",
+        "initial": "ㄇ",
+        "syllables": 3,
+        "targetIndex": 2
+      },
+      {
+        "text": "高大門",
+        "initial": "ㄇ",
+        "syllables": 3,
+        "targetIndex": 2
+      },
+      {
+        "text": "白小馬",
+        "initial": "ㄇ",
+        "syllables": 3,
+        "targetIndex": 2
+      },
+      {
+        "text": "熱細麵",
+        "initial": "ㄇ",
+        "syllables": 3,
+        "targetIndex": 2
+      },
+      {
+        "text": "乾毛巾",
+        "initial": "ㄇ",
+        "syllables": 3,
+        "targetIndex": 2
+      },
+      {
+        "text": "新白米",
+        "initial": "ㄇ",
+        "syllables": 3,
+        "targetIndex": 2
+      },
+      {
+        "text": "舊鐵門",
+        "initial": "ㄇ",
+        "syllables": 3,
+        "targetIndex": 2
+      },
+      {
+        "text": "厚毛帽",
+        "initial": "ㄇ",
+        "syllables": 3,
+        "targetIndex": 2
+      },
+      {
+        "text": "熟黑麥",
+        "initial": "ㄇ",
+        "syllables": 3,
+        "targetIndex": 2
+      },
+      {
+        "text": "紅細毛",
+        "initial": "ㄇ",
+        "syllables": 3,
+        "targetIndex": 2
+      },
+      {
+        "text": "粗麻袋",
+        "initial": "ㄇ",
+        "syllables": 3,
+        "targetIndex": 2
+      }
+    ],
+    {"text": "飛機", "initial": "ㄈ", "syllables": 2, "targetIndex": 0},
+    {"text": "風箏", "initial": "ㄈ", "syllables": 2, "targetIndex": 0},
+    {"text": "鳳梨", "initial": "ㄈ", "syllables": 2, "targetIndex": 0},
+    {"text": "番茄", "initial": "ㄈ", "syllables": 2, "targetIndex": 0},
+    {"text": "蜂蜜", "initial": "ㄈ", "syllables": 2, "targetIndex": 0},
+    {"text": "風車", "initial": "ㄈ", "syllables": 2, "targetIndex": 0},
+    {"text": "風鈴", "initial": "ㄈ", "syllables": 2, "targetIndex": 0},
+    {"text": "風扇", "initial": "ㄈ", "syllables": 2, "targetIndex": 0},
+    {"text": "房子", "initial": "ㄈ", "syllables": 2, "targetIndex": 0},
+    {"text": "肥皂", "initial": "ㄈ", "syllables": 2, "targetIndex": 0},
+    {"text": "浮標", "initial": "ㄈ", "syllables": 2, "targetIndex": 0},
+    {"text": "反光", "initial": "ㄈ", "syllables": 2, "targetIndex": 0},
+    {"text": "福氣", "initial": "ㄈ", "syllables": 2, "targetIndex": 0},
+    {"text": "復興", "initial": "ㄈ", "syllables": 2, "targetIndex": 0},
+    {"text": "浮游", "initial": "ㄈ", "syllables": 2, "targetIndex": 0},
+    {"text": "府邸", "initial": "ㄈ", "syllables": 2, "targetIndex": 0},
+    {"text": "付費", "initial": "ㄈ", "syllables": 2, "targetIndex": 0},
+    {"text": "紛紛", "initial": "ㄈ", "syllables": 2, "targetIndex": 0},
+    {"text": "浮躁", "initial": "ㄈ", "syllables": 2, "targetIndex": 0},
+    {"text": "奮發", "initial": "ㄈ", "syllables": 2, "targetIndex": 0},
+    {"text": "分裂", "initial": "ㄈ", "syllables": 2, "targetIndex": 0},
+    {"text": "烽火", "initial": "ㄈ", "syllables": 2, "targetIndex": 0},
+    {"text": "服裝", "initial": "ㄈ", "syllables": 2, "targetIndex": 0},
+    {"text": "佛教", "initial": "ㄈ", "syllables": 2, "targetIndex": 0},
+    {"text": "弟弟", "initial": "ㄉ", "syllables": 2, "targetIndex": 0},
+    {"text": "蛋糕", "initial": "ㄉ", "syllables": 2, "targetIndex": 0},
+    {"text": "大象", "initial": "ㄉ", "syllables": 2, "targetIndex": 0},
+    {"text": "豆漿", "initial": "ㄉ", "syllables": 2, "targetIndex": 0},
+    {"text": "電影", "initial": "ㄉ", "syllables": 2, "targetIndex": 0},
+    {"text": "電池", "initial": "ㄉ", "syllables": 2, "targetIndex": 0},
+    {"text": "鐘楼", "initial": "ㄉ", "syllables": 2, "targetIndex": 0},
+    {"text": "德育", "initial": "ㄉ", "syllables": 2, "targetIndex": 0},
+    {"text": "迪斯", "initial": "ㄉ", "syllables": 2, "targetIndex": 0},
+    {"text": "朵朵", "initial": "ㄉ", "syllables": 2, "targetIndex": 0},
+    {"text": "的士", "initial": "ㄉ", "syllables": 2, "targetIndex": 0},
+    {"text": "地球", "initial": "ㄉ", "syllables": 2, "targetIndex": 0},
+    {"text": "地板", "initial": "ㄉ", "syllables": 2, "targetIndex": 0},
+    {"text": "丢棋", "initial": "ㄉ", "syllables": 2, "targetIndex": 0},
+    {"text": "渡船", "initial": "ㄉ", "syllables": 2, "targetIndex": 0},
+    {"text": "打球", "initial": "ㄉ", "syllables": 2, "targetIndex": 0},
+    {"text": "樂隊", "initial": "ㄉ", "syllables": 2, "targetIndex": 0},
+    {"text": "腹股", "initial": "ㄉ", "syllables": 2, "targetIndex": 0},
+    {"text": "鼎鼎", "initial": "ㄉ", "syllables": 2, "targetIndex": 0},
+    {"text": "堆積", "initial": "ㄉ", "syllables": 2, "targetIndex": 0},
+    {"text": "動畫", "initial": "ㄉ", "syllables": 2, "targetIndex": 0},
+    {"text": "哥哥", "initial": "ㄍ", "syllables": 2, "targetIndex": 0},
+    {"text": "狗狗", "initial": "ㄍ", "syllables": 2, "targetIndex": 0},
+    {"text": "公園", "initial": "ㄍ", "syllables": 2, "targetIndex": 0},
+    {"text": "果凍", "initial": "ㄍ", "syllables": 2, "targetIndex": 0},
+    {"text": "高山", "initial": "ㄍ", "syllables": 2, "targetIndex": 0},
+    {"text": "歌唱", "initial": "ㄍ", "syllables": 2, "targetIndex": 0},
+    {"text": "公路", "initial": "ㄍ", "syllables": 2, "targetIndex": 0},
+    {"text": "鼓励", "initial": "ㄍ", "syllables": 2, "targetIndex": 0},
+    {"text": "股票", "initial": "ㄍ", "syllables": 2, "targetIndex": 0},
+    {"text": "顾客", "initial": "ㄍ", "syllables": 2, "targetIndex": 0},
+    {"text": "搞砸", "initial": "ㄍ", "syllables": 2, "targetIndex": 0},
+    {"text": "概括", "initial": "ㄍ", "syllables": 2, "targetIndex": 0},
+    {"text": "躬身", "initial": "ㄍ", "syllables": 2, "targetIndex": 0},
+    {"text": "剛强", "initial": "ㄍ", "syllables": 2, "targetIndex": 0},
+    {"text": "鼓掌", "initial": "ㄍ", "syllables": 2, "targetIndex": 0},
+    {"text": "感激", "initial": "ㄍ", "syllables": 2, "targetIndex": 0},
+    {"text": "古迹", "initial": "ㄍ", "syllables": 2, "targetIndex": 0},
+    {"text": "各種", "initial": "ㄍ", "syllables": 2, "targetIndex": 0},
+    {"text": "光芒", "initial": "ㄍ", "syllables": 2, "targetIndex": 0},
+    {"text": "孤独", "initial": "ㄍ", "syllables": 2, "targetIndex": 0},
+    {"text": "故事", "initial": "ㄍ", "syllables": 2, "targetIndex": 0},
+    {"text": "瓜类", "initial": "ㄍ", "syllables": 2, "targetIndex": 0},
+    {"text": "兔子", "initial": "ㄊ", "syllables": 2, "targetIndex": 0},
+    {"text": "糖果", "initial": "ㄊ", "syllables": 2, "targetIndex": 0},
+    {"text": "太陽", "initial": "ㄊ", "syllables": 2, "targetIndex": 0},
+    {"text": "台灣", "initial": "ㄊ", "syllables": 2, "targetIndex": 0},
+    {"text": "提醒", "initial": "ㄊ", "syllables": 2, "targetIndex": 0},
+    {"text": "跳舞", "initial": "ㄊ", "syllables": 2, "targetIndex": 0},
+    {"text": "踏步", "initial": "ㄊ", "syllables": 2, "targetIndex": 0},
+    {"text": "談話", "initial": "ㄊ", "syllables": 2, "targetIndex": 0},
+    {"text": "題目", "initial": "ㄊ", "syllables": 2, "targetIndex": 0},
+    {"text": "同學", "initial": "ㄊ", "syllables": 2, "targetIndex": 0},
+    {"text": "聽力", "initial": "ㄊ", "syllables": 2, "targetIndex": 0},
+    {"text": "掘礦", "initial": "ㄊ", "syllables": 2, "targetIndex": 0},
+    {"text": "貼紙", "initial": "ㄊ", "syllables": 2, "targetIndex": 0},
+    {"text": "特色", "initial": "ㄊ", "syllables": 2, "targetIndex": 0},
+    {"text": "討論", "initial": "ㄊ", "syllables": 2, "targetIndex": 0},
+    {"text": "禿頭", "initial": "ㄊ", "syllables": 2, "targetIndex": 0},
+    {"text": "拓展", "initial": "ㄊ", "syllables": 2, "targetIndex": 0},
+    {"text": "途徑", "initial": "ㄊ", "syllables": 2, "targetIndex": 0},
+    {"text": "統治", "initial": "ㄊ", "syllables": 2, "targetIndex": 0},
+    {"text": "退休", "initial": "ㄊ", "syllables": 2, "targetIndex": 0},
+    {"text": "牛奶", "initial": "ㄋ", "syllables": 2, "targetIndex": 0},
+    {"text": "奶奶", "initial": "ㄋ", "syllables": 2, "targetIndex": 0},
+    {"text": "南瓜", "initial": "ㄋ", "syllables": 2, "targetIndex": 0},
+    {"text": "農場", "initial": "ㄋ", "syllables": 2, "targetIndex": 0},
+    {"text": "年糕", "initial": "ㄋ", "syllables": 2, "targetIndex": 0},
+    {"text": "鼓掌", "initial": "ㄋ", "syllables": 2, "targetIndex": 0},
+    {"text": "你我", "initial": "ㄋ", "syllables": 2, "targetIndex": 0},
+    {"text": "濃郁", "initial": "ㄋ", "syllables": 2, "targetIndex": 0},
+    {"text": "內衣", "initial": "ㄋ", "syllables": 2, "targetIndex": 0},
+    {"text": "能力", "initial": "ㄋ", "syllables": 2, "targetIndex": 0},
+    {"text": "娘親", "initial": "ㄋ", "syllables": 2, "targetIndex": 0},
+    {"text": "粘土", "initial": "ㄋ", "syllables": 2, "targetIndex": 0},
+    {"text": "鬧鐘", "initial": "ㄋ", "syllables": 2, "targetIndex": 0},
+    {"text": "哪裡", "initial": "ㄋ", "syllables": 2, "targetIndex": 0},
+    {"text": "拈花", "initial": "ㄋ", "syllables": 2, "targetIndex": 0},
+    {"text": "逆轉", "initial": "ㄋ", "syllables": 2, "targetIndex": 0},
+    {"text": "尼龍", "initial": "ㄋ", "syllables": 2, "targetIndex": 0},
+    {"text": "寧願", "initial": "ㄋ", "syllables": 2, "targetIndex": 0},
+    {"text": "凝視", "initial": "ㄋ", "syllables": 2, "targetIndex": 0},
+    {"text": "老虎", "initial": "ㄌ", "syllables": 2, "targetIndex": 0},
+    {"text": "垃圾", "initial": "ㄌ", "syllables": 2, "targetIndex": 0},
+    {"text": "藍莓", "initial": "ㄌ", "syllables": 2, "targetIndex": 0},
+    {"text": "雷雨", "initial": "ㄌ", "syllables": 2, "targetIndex": 0},
+    {"text": "旅遊", "initial": "ㄌ", "syllables": 2, "targetIndex": 0},
+    {"text": "涼爽", "initial": "ㄌ", "syllables": 2, "targetIndex": 0},
+    {"text": "李子", "initial": "ㄌ", "syllables": 2, "targetIndex": 0},
+    {"text": "離開", "initial": "ㄌ", "syllables": 2, "targetIndex": 0},
+    {"text": "連結", "initial": "ㄌ", "syllables": 2, "targetIndex": 0},
+    {"text": "綠茶", "initial": "ㄌ", "syllables": 2, "targetIndex": 0},
+    {"text": "力量", "initial": "ㄌ", "syllables": 2, "targetIndex": 0},
+    {"text": "律師", "initial": "ㄌ", "syllables": 2, "targetIndex": 0},
+    {"text": "洛陽", "initial": "ㄌ", "syllables": 2, "targetIndex": 0},
+    {"text": "淚水", "initial": "ㄌ", "syllables": 2, "targetIndex": 0},
+    {"text": "紫丁香", "initial": "ㄌ", "syllables": 3, "targetIndex": 0},
+    {"text": "流浪", "initial": "ㄌ", "syllables": 2, "targetIndex": 0},
+    {"text": "西瓜", "initial": "ㄒ", "syllables": 2, "targetIndex": 0},
+    {"text": "吸管", "initial": "ㄒ", "syllables": 2, "targetIndex": 0},
+    {"text": "小溪", "initial": "ㄒ", "syllables": 2, "targetIndex": 0},
+    {"text": "蝦子", "initial": "ㄒ", "syllables": 2, "targetIndex": 0},
+    {"text": "下雨", "initial": "ㄒ", "syllables": 2, "targetIndex": 0},
+    {"text": "鞋子", "initial": "ㄒ", "syllables": 2, "targetIndex": 0},
+    {"text": "寫字", "initial": "ㄒ", "syllables": 2, "targetIndex": 0},
+    {"text": "休息", "initial": "ㄒ", "syllables": 2, "targetIndex": 0},
+    {"text": "香蕉", "initial": "ㄒ", "syllables": 2, "targetIndex": 0},
+    {"text": "信封", "initial": "ㄒ", "syllables": 2, "targetIndex": 0},
+    {"text": "相機", "initial": "ㄒ", "syllables": 2, "targetIndex": 0},
+    {"text": "箱子", "initial": "ㄒ", "syllables": 2, "targetIndex": 0},
+    {"text": "許願", "initial": "ㄒ", "syllables": 2, "targetIndex": 0},
+    {"text": "舞蹈", "initial": "ㄒ", "syllables": 2, "targetIndex": 0},
+    {"text": "喜悅", "initial": "ㄒ", "syllables": 2, "targetIndex": 0},
+    {"text": "悉心", "initial": "ㄒ", "syllables": 2, "targetIndex": 0},
+    {"text": "徐徐", "initial": "ㄒ", "syllables": 2, "targetIndex": 0},
+    {"text": "修行", "initial": "ㄒ", "syllables": 2, "targetIndex": 0},
+    {"text": "詢問", "initial": "ㄒ", "syllables": 2, "targetIndex": 0},
+    {"text": "吸煙", "initial": "ㄒ", "syllables": 2, "targetIndex": 0},
+    {"text": "玩耍", "initial": "ㄒ", "syllables": 2, "targetIndex": 1},
+    {"text": "海鮮", "initial": "ㄒ", "syllables": 2, "targetIndex": 1},
+    {"text": "涼鞋", "initial": "ㄒ", "syllables": 2, "targetIndex": 1},
+    {"text": "冰箱", "initial": "ㄒ", "syllables": 2, "targetIndex": 1},
+    {"text": "洗衣機", "initial": "ㄒ", "syllables": 3, "targetIndex": 0},
+    {"text": "笑嘻嘻", "initial": "ㄒ", "syllables": 3, "targetIndex": 0},
+    {"text": "星期三", "initial": "ㄒ", "syllables": 3, "targetIndex": 0},
+    {"text": "考卷", "initial": "ㄎ", "syllables": 2, "targetIndex": 0},
+    {"text": "褲子", "initial": "ㄎ", "syllables": 2, "targetIndex": 0},
+    {"text": "可愛", "initial": "ㄎ", "syllables": 2, "targetIndex": 0},
+    {"text": "考試", "initial": "ㄎ", "syllables": 2, "targetIndex": 0},
+    {"text": "咖啡", "initial": "ㄎ", "syllables": 2, "targetIndex": 0},
+    {"text": "課程", "initial": "ㄎ", "syllables": 2, "targetIndex": 0},
+    {"text": "卡通", "initial": "ㄎ", "syllables": 2, "targetIndex": 0},
+    {"text": "開心", "initial": "ㄎ", "syllables": 2, "targetIndex": 0},
+    {"text": "開放", "initial": "ㄎ", "syllables": 2, "targetIndex": 0},
+    {"text": "苦瓜", "initial": "ㄎ", "syllables": 2, "targetIndex": 0},
+    {"text": "抗菌", "initial": "ㄎ", "syllables": 2, "targetIndex": 0},
+    {"text": "開口", "initial": "ㄎ", "syllables": 2, "targetIndex": 0},
+    {"text": "看書", "initial": "ㄎ", "syllables": 2, "targetIndex": 0},
+    {"text": "磕碰", "initial": "ㄎ", "syllables": 2, "targetIndex": 0},
+    {"text": "控制", "initial": "ㄎ", "syllables": 2, "targetIndex": 0},
+    {"text": "可樂瓶", "initial": "ㄎ", "syllables": 3, "targetIndex": 0},
+    {"text": "恐龍蛋", "initial": "ㄎ", "syllables": 3, "targetIndex": 0},
+    {"text": "口香糖", "initial": "ㄎ", "syllables": 3, "targetIndex": 0},
+    {"text": "咖啡杯", "initial": "ㄎ", "syllables": 3, "targetIndex": 0},
+    {"text": "開瓶器", "initial": "ㄎ", "syllables": 3, "targetIndex": 0},
+    {"text": "卡通片", "initial": "ㄎ", "syllables": 3, "targetIndex": 0},
+    {"text": "苦瓜炒", "initial": "ㄎ", "syllables": 3, "targetIndex": 0},
+    {"text": "抗菌膜", "initial": "ㄎ", "syllables": 3, "targetIndex": 0},
+    {"text": "這顆", "initial": "ㄎ", "syllables": 2, "targetIndex": 1},
+    {"text": "貝殼", "initial": "ㄎ", "syllables": 2, "targetIndex": 1},
+    {"text": "夾克", "initial": "ㄎ", "syllables": 2, "targetIndex": 1},
+    {"text": "花豹", "initial": "ㄎ", "syllables": 2, "targetIndex": 1},
+    {"text": "鑰匙", "initial": "ㄎ", "syllables": 2, "targetIndex": 1},
+    {"text": "麥克", "initial": "ㄎ", "syllables": 2, "targetIndex": 1},
+    {"text": "邪靈", "initial": "ㄎ", "syllables": 2, "targetIndex": 1},
+    {"text": "攻擊", "initial": "ㄎ", "syllables": 2, "targetIndex": 1},
+    {"text": "黑科", "initial": "ㄎ", "syllables": 2, "targetIndex": 1},
+    {"text": "巴克", "initial": "ㄎ", "syllables": 2, "targetIndex": 1},
+    {"text": "花朵", "initial": "ㄏ", "syllables": 2, "targetIndex": 0},
+    {"text": "猴子", "initial": "ㄏ", "syllables": 2, "targetIndex": 0},
+    {"text": "好吃", "initial": "ㄏ", "syllables": 2, "targetIndex": 0},
+    {"text": "紅包", "initial": "ㄏ", "syllables": 2, "targetIndex": 0},
+    {"text": "火山", "initial": "ㄏ", "syllables": 2, "targetIndex": 0},
+    {"text": "河流", "initial": "ㄏ", "syllables": 2, "targetIndex": 0},
+    {"text": "孩子", "initial": "ㄏ", "syllables": 2, "targetIndex": 0},
+    {"text": "海邊", "initial": "ㄏ", "syllables": 2, "targetIndex": 0},
+    {"text": "害怕", "initial": "ㄏ", "syllables": 2, "targetIndex": 0},
+    {"text": "黑色", "initial": "ㄏ", "syllables": 2, "targetIndex": 0},
+    {"text": "航空", "initial": "ㄏ", "syllables": 2, "targetIndex": 0},
+    {"text": "荷花", "initial": "ㄏ", "syllables": 2, "targetIndex": 0},
+    {"text": "好朋友", "initial": "ㄏ", "syllables": 3, "targetIndex": 0},
+    {"text": "孩子們", "initial": "ㄏ", "syllables": 3, "targetIndex": 0},
+    {"text": "海浪聲", "initial": "ㄏ", "syllables": 3, "targetIndex": 0},
+    {"text": "火車站", "initial": "ㄏ", "syllables": 3, "targetIndex": 0},
+    {"text": "黑黑的", "initial": "ㄏ", "syllables": 3, "targetIndex": 0},
+    {"text": "後花園", "initial": "ㄏ", "syllables": 3, "targetIndex": 0},
+    {"text": "還要嗎", "initial": "ㄏ", "syllables": 3, "targetIndex": 0},
+    {"text": "電話", "initial": "ㄏ", "syllables": 2, "targetIndex": 1},
+    {"text": "老虎", "initial": "ㄏ", "syllables": 2, "targetIndex": 1},
+    {"text": "雞蛋", "initial": "ㄐ", "syllables": 2, "targetIndex": 0},
+    {"text": "積木", "initial": "ㄐ", "syllables": 2, "targetIndex": 0},
+    {"text": "家人", "initial": "ㄐ", "syllables": 2, "targetIndex": 0},
+    {"text": "吉他", "initial": "ㄐ", "syllables": 2, "targetIndex": 0},
+    {"text": "結婚", "initial": "ㄐ", "syllables": 2, "targetIndex": 0},
+    {"text": "警察", "initial": "ㄐ", "syllables": 2, "targetIndex": 0},
+    {"text": "傑作", "initial": "ㄐ", "syllables": 2, "targetIndex": 0},
+    {"text": "狡猾", "initial": "ㄐ", "syllables": 2, "targetIndex": 0},
+    {"text": "接待", "initial": "ㄐ", "syllables": 2, "targetIndex": 0},
+    {"text": "決定", "initial": "ㄐ", "syllables": 2, "targetIndex": 0},
+    {"text": "金錢", "initial": "ㄐ", "syllables": 2, "targetIndex": 0},
+    {"text": "京城", "initial": "ㄐ", "syllables": 2, "targetIndex": 0},
+    {"text": "腳踏車", "initial": "ㄐ", "syllables": 3, "targetIndex": 0},
+    {"text": "角色扮", "initial": "ㄐ", "syllables": 3, "targetIndex": 0},
+    {"text": "交通燈", "initial": "ㄐ", "syllables": 3, "targetIndex": 0},
+    {"text": "金錢樹", "initial": "ㄐ", "syllables": 3, "targetIndex": 0},
+    {"text": "街道上", "initial": "ㄐ", "syllables": 3, "targetIndex": 0},
+    {"text": "鉛筆水", "initial": "ㄐ", "syllables": 3, "targetIndex": 0},
+    {"text": "飛機", "initial": "ㄐ", "syllables": 2, "targetIndex": 1},
+    {"text": "手機", "initial": "ㄐ", "syllables": 2, "targetIndex": 1},
+    {"text": "機器人", "initial": "ㄐ", "syllables": 3, "targetIndex": 0},
+    {"text": "企鵝", "initial": "ㄑ", "syllables": 2, "targetIndex": 0},
+    {"text": "氣球", "initial": "ㄑ", "syllables": 2, "targetIndex": 0},
+    {"text": "青蛙", "initial": "ㄑ", "syllables": 2, "targetIndex": 0},
+    {"text": "請問", "initial": "ㄑ", "syllables": 2, "targetIndex": 0},
+    {"text": "起床", "initial": "ㄑ", "syllables": 2, "targetIndex": 0},
+    {"text": "球鞋", "initial": "ㄑ", "syllables": 2, "targetIndex": 0},
+    {"text": "秋天", "initial": "ㄑ", "syllables": 2, "targetIndex": 0},
+    {"text": "七月", "initial": "ㄑ", "syllables": 2, "targetIndex": 0},
+    {"text": "奇蹟", "initial": "ㄑ", "syllables": 2, "targetIndex": 0},
+    {"text": "欺騙", "initial": "ㄑ", "syllables": 2, "targetIndex": 0},
+    {"text": "親親", "initial": "ㄑ", "syllables": 2, "targetIndex": 0},
+    {"text": "青睞", "initial": "ㄑ", "syllables": 2, "targetIndex": 0},
+    {"text": "巧克力", "initial": "ㄑ", "syllables": 3, "targetIndex": 0},
+    {"text": "青山綠", "initial": "ㄑ", "syllables": 3, "targetIndex": 0},
+    {"text": "氣球飛", "initial": "ㄑ", "syllables": 3, "targetIndex": 0},
+    {"text": "請問好", "initial": "ㄑ", "syllables": 3, "targetIndex": 0},
+    {"text": "起床了", "initial": "ㄑ", "syllables": 3, "targetIndex": 0},
+    {"text": "球賽場", "initial": "ㄑ", "syllables": 3, "targetIndex": 0},
+    {"text": "秋天風", "initial": "ㄑ", "syllables": 3, "targetIndex": 0},
+    {"text": "機器", "initial": "ㄑ", "syllables": 2, "targetIndex": 1},
+    {"text": "而且", "initial": "ㄑ", "syllables": 2, "targetIndex": 1},
+    {"text": "蜘蛛", "initial": "ㄓ", "syllables": 2, "targetIndex": 0},
+    {"text": "桌子", "initial": "ㄓ", "syllables": 2, "targetIndex": 0},
+    {"text": "紙張", "initial": "ㄓ", "syllables": 2, "targetIndex": 0},
+    {"text": "珍珠", "initial": "ㄓ", "syllables": 2, "targetIndex": 0},
+    {"text": "織布", "initial": "ㄓ", "syllables": 2, "targetIndex": 0},
+    {"text": "抓癢", "initial": "ㄓ", "syllables": 2, "targetIndex": 0},
+    {"text": "知道", "initial": "ㄓ", "syllables": 2, "targetIndex": 0},
+    {"text": "執著", "initial": "ㄓ", "syllables": 2, "targetIndex": 0},
+    {"text": "直線", "initial": "ㄓ", "syllables": 2, "targetIndex": 0},
+    {"text": "治療", "initial": "ㄓ", "syllables": 2, "targetIndex": 0},
+    {"text": "豬肉", "initial": "ㄓ", "syllables": 2, "targetIndex": 0},
+    {"text": "竹子", "initial": "ㄓ", "syllables": 2, "targetIndex": 0},
+    {"text": "果汁機", "initial": "ㄓ", "syllables": 3, "targetIndex": 0},
+    {"text": "蜘蛛人", "initial": "ㄓ", "syllables": 3, "targetIndex": 0},
+    {"text": "紙飛機", "initial": "ㄓ", "syllables": 3, "targetIndex": 0},
+    {"text": "紙風車", "initial": "ㄓ", "syllables": 3, "targetIndex": 0},
+    {"text": "織布機", "initial": "ㄓ", "syllables": 3, "targetIndex": 0},
+    {"text": "知己知", "initial": "ㄓ", "syllables": 3, "targetIndex": 0},
+    {"text": "果汁", "initial": "ㄓ", "syllables": 2, "targetIndex": 1},
+    {"text": "手指", "initial": "ㄓ", "syllables": 2, "targetIndex": 1},
+    {"text": "報紙", "initial": "ㄓ", "syllables": 2, "targetIndex": 1},
+    {"text": "吃飯", "initial": "ㄔ", "syllables": 2, "targetIndex": 0},
+    {"text": "唱歌", "initial": "ㄔ", "syllables": 2, "targetIndex": 0},
+    {"text": "長褲", "initial": "ㄔ", "syllables": 2, "targetIndex": 0},
+    {"text": "出發", "initial": "ㄔ", "syllables": 2, "targetIndex": 0},
+    {"text": "吵架", "initial": "ㄔ", "syllables": 2, "targetIndex": 0},
+    {"text": "抄襲", "initial": "ㄔ", "syllables": 2, "targetIndex": 0},
+    {"text": "澄清", "initial": "ㄔ", "syllables": 2, "targetIndex": 0},
+    {"text": "常見", "initial": "ㄔ", "syllables": 2, "targetIndex": 0},
+    {"text": "廠房", "initial": "ㄔ", "syllables": 2, "targetIndex": 0},
+    {"text": "場景", "initial": "ㄔ", "syllables": 2, "targetIndex": 0},
+    {"text": "茶杯", "initial": "ㄔ", "syllables": 2, "targetIndex": 0},
+    {"text": "稱讚", "initial": "ㄔ", "syllables": 2, "targetIndex": 0},
+    {"text": "長頸鹿", "initial": "ㄔ", "syllables": 3, "targetIndex": 0},
+    {"text": "長頭髮", "initial": "ㄔ", "syllables": 3, "targetIndex": 0},
+    {"text": "長方形", "initial": "ㄔ", "syllables": 3, "targetIndex": 0},
+    {"text": "長頸龍", "initial": "ㄔ", "syllables": 3, "targetIndex": 0},
+    {"text": "吃東西", "initial": "ㄔ", "syllables": 3, "targetIndex": 0},
+    {"text": "唱歌聲", "initial": "ㄔ", "syllables": 3, "targetIndex": 0},
+    {"text": "公車", "initial": "ㄔ", "syllables": 2, "targetIndex": 1},
+    {"text": "火車", "initial": "ㄔ", "syllables": 2, "targetIndex": 1},
+    {"text": "風車", "initial": "ㄔ", "syllables": 2, "targetIndex": 1},
+    {"text": "汽車", "initial": "ㄔ", "syllables": 2, "targetIndex": 1},
+    {"text": "獅子", "initial": "ㄕ", "syllables": 2, "targetIndex": 0},
+    {"text": "手錶", "initial": "ㄕ", "syllables": 2, "targetIndex": 0},
+    {"text": "書包", "initial": "ㄕ", "syllables": 2, "targetIndex": 0},
+    {"text": "手套", "initial": "ㄕ", "syllables": 2, "targetIndex": 0},
+    {"text": "山水", "initial": "ㄕ", "syllables": 2, "targetIndex": 0},
+    {"text": "生活", "initial": "ㄕ", "syllables": 2, "targetIndex": 0},
+    {"text": "誰人", "initial": "ㄕ", "syllables": 2, "targetIndex": 0},
+    {"text": "上升", "initial": "ㄕ", "syllables": 2, "targetIndex": 0},
+    {"text": "神話", "initial": "ㄕ", "syllables": 2, "targetIndex": 0},
+    {"text": "施工", "initial": "ㄕ", "syllables": 2, "targetIndex": 0},
+    {"text": "事件", "initial": "ㄕ", "syllables": 2, "targetIndex": 0},
+    {"text": "世界", "initial": "ㄕ", "syllables": 2, "targetIndex": 0},
+    {"text": "手電筒", "initial": "ㄕ", "syllables": 3, "targetIndex": 0},
+    {"text": "書包裡", "initial": "ㄕ", "syllables": 3, "targetIndex": 0},
+    {"text": "手牽手", "initial": "ㄕ", "syllables": 3, "targetIndex": 0},
+    {"text": "洗手間", "initial": "ㄕ", "syllables": 3, "targetIndex": 0},
+    {"text": "生日蛋", "initial": "ㄕ", "syllables": 3, "targetIndex": 0},
+    {"text": "神獸寶", "initial": "ㄕ", "syllables": 3, "targetIndex": 0},
+    {"text": "老師", "initial": "ㄕ", "syllables": 2, "targetIndex": 1},
+    {"text": "電視", "initial": "ㄕ", "syllables": 2, "targetIndex": 1},
+    {"text": "教室", "initial": "ㄕ", "syllables": 2, "targetIndex": 1},
+    {"text": "熱狗", "initial": "ㄖ", "syllables": 2, "targetIndex": 0},
+    {"text": "日本", "initial": "ㄖ", "syllables": 2, "targetIndex": 0},
+    {"text": "軟綿", "initial": "ㄖ", "syllables": 2, "targetIndex": 0},
+    {"text": "人類", "initial": "ㄖ", "syllables": 2, "targetIndex": 0},
+    {"text": "肉類", "initial": "ㄖ", "syllables": 2, "targetIndex": 0},
+    {"text": "認識", "initial": "ㄖ", "syllables": 2, "targetIndex": 0},
+    {"text": "樂曲", "initial": "ㄖ", "syllables": 2, "targetIndex": 0},
+    {"text": "融化", "initial": "ㄖ", "syllables": 2, "targetIndex": 0},
+    {"text": "容納", "initial": "ㄖ", "syllables": 2, "targetIndex": 0},
+    {"text": "如何", "initial": "ㄖ", "syllables": 2, "targetIndex": 0},
+    {"text": "柔軟", "initial": "ㄖ", "syllables": 2, "targetIndex": 0},
+    {"text": "繞圈", "initial": "ㄖ", "syllables": 2, "targetIndex": 0},
+    {"text": "熱氣球", "initial": "ㄖ", "syllables": 3, "targetIndex": 0},
+    {"text": "熱可可", "initial": "ㄖ", "syllables": 3, "targetIndex": 0},
+    {"text": "熱牛奶", "initial": "ㄖ", "syllables": 3, "targetIndex": 0},
+    {"text": "熱水瓶", "initial": "ㄖ", "syllables": 3, "targetIndex": 0},
+    {"text": "熱湯麵", "initial": "ㄖ", "syllables": 3, "targetIndex": 0},
+    {"text": "人生路", "initial": "ㄖ", "syllables": 3, "targetIndex": 0},
+    {"text": "生日", "initial": "ㄖ", "syllables": 2, "targetIndex": 1},
+    {"text": "超人", "initial": "ㄖ", "syllables": 2, "targetIndex": 1},
+    {"text": "大人", "initial": "ㄖ", "syllables": 2, "targetIndex": 1},
+    {"text": "走路", "initial": "ㄗ", "syllables": 2, "targetIndex": 0},
+    {"text": "嘴巴", "initial": "ㄗ", "syllables": 2, "targetIndex": 0},
+    {"text": "足球", "initial": "ㄗ", "syllables": 2, "targetIndex": 0},
+    {"text": "皺紋", "initial": "ㄗ", "syllables": 2, "targetIndex": 0},
+    {"text": "昨天", "initial": "ㄗ", "syllables": 2, "targetIndex": 0},
+    {"text": "怎樣", "initial": "ㄗ", "syllables": 2, "targetIndex": 0},
+    {"text": "讚揚", "initial": "ㄗ", "syllables": 2, "targetIndex": 0},
+    {"text": "坐著", "initial": "ㄗ", "syllables": 2, "targetIndex": 0},
+    {"text": "尊敬", "initial": "ㄗ", "syllables": 2, "targetIndex": 0},
+    {"text": "造景", "initial": "ㄗ", "syllables": 2, "targetIndex": 0},
+    {"text": "阻力", "initial": "ㄗ", "syllables": 2, "targetIndex": 0},
+    {"text": "咀嚼", "initial": "ㄗ", "syllables": 2, "targetIndex": 0},
+    {"text": "自行車", "initial": "ㄗ", "syllables": 3, "targetIndex": 0},
+    {"text": "自己來", "initial": "ㄗ", "syllables": 3, "targetIndex": 0},
+    {"text": "足球場", "initial": "ㄗ", "syllables": 3, "targetIndex": 0},
+    {"text": "做作業", "initial": "ㄗ", "syllables": 3, "targetIndex": 0},
+    {"text": "怎樣啊", "initial": "ㄗ", "syllables": 3, "targetIndex": 0},
+    {"text": "肚子", "initial": "ㄗ", "syllables": 2, "targetIndex": 1},
+    {"text": "鏡子", "initial": "ㄗ", "syllables": 2, "targetIndex": 1},
+    {"text": "帽子", "initial": "ㄗ", "syllables": 2, "targetIndex": 1},
+    {"text": "兔子", "initial": "ㄗ", "syllables": 2, "targetIndex": 1},
+    {"text": "草莓", "initial": "ㄘ", "syllables": 2, "targetIndex": 0},
+    {"text": "彩虹", "initial": "ㄘ", "syllables": 2, "targetIndex": 0},
+    {"text": "差別", "initial": "ㄘ", "syllables": 2, "targetIndex": 0},
+    {"text": "擦窗", "initial": "ㄘ", "syllables": 2, "targetIndex": 0},
+    {"text": "參加", "initial": "ㄘ", "syllables": 2, "targetIndex": 0},
+    {"text": "蒼白", "initial": "ㄘ", "syllables": 2, "targetIndex": 0},
+    {"text": "層樓", "initial": "ㄘ", "syllables": 2, "targetIndex": 0},
+    {"text": "叉子", "initial": "ㄘ", "syllables": 2, "targetIndex": 0},
+    {"text": "車子", "initial": "ㄘ", "syllables": 2, "targetIndex": 0},
+    {"text": "材料", "initial": "ㄘ", "syllables": 2, "targetIndex": 0},
+    {"text": "遭遇", "initial": "ㄘ", "syllables": 2, "targetIndex": 0},
+    {"text": "藏匿", "initial": "ㄘ", "syllables": 2, "targetIndex": 0},
+    {"text": "草莓醬", "initial": "ㄘ", "syllables": 3, "targetIndex": 0},
+    {"text": "彩色筆", "initial": "ㄘ", "syllables": 3, "targetIndex": 0},
+    {"text": "白菜", "initial": "ㄘ", "syllables": 2, "targetIndex": 1},
+    {"text": "青菜", "initial": "ㄘ", "syllables": 2, "targetIndex": 1},
+    {"text": "蔬菜", "initial": "ㄘ", "syllables": 2, "targetIndex": 1},
+    {"text": "花菜", "initial": "ㄘ", "syllables": 2, "targetIndex": 1},
+    {"text": "松鼠", "initial": "ㄙ", "syllables": 2, "targetIndex": 0},
+    {"text": "三明治", "initial": "ㄙ", "syllables": 3, "targetIndex": 0},
+    {"text": "三輪車", "initial": "ㄙ", "syllables": 3, "targetIndex": 0},
+    {"text": "三色豆", "initial": "ㄙ", "syllables": 3, "targetIndex": 0},
+    {"text": "森林", "initial": "ㄙ", "syllables": 2, "targetIndex": 0},
+    {"text": "沙發", "initial": "ㄙ", "syllables": 2, "targetIndex": 0},
+    {"text": "珊瑚", "initial": "ㄙ", "syllables": 2, "targetIndex": 0},
+    {"text": "善良", "initial": "ㄙ", "syllables": 2, "targetIndex": 0},
+    {"text": "三月", "initial": "ㄙ", "syllables": 2, "targetIndex": 0},
+    {"text": "傻瓜", "initial": "ㄙ", "syllables": 2, "targetIndex": 0},
+    {"text": "傷心", "initial": "ㄙ", "syllables": 2, "targetIndex": 0},
+    {"text": "生肖", "initial": "ㄙ", "syllables": 2, "targetIndex": 0},
+    {"text": "吐司", "initial": "ㄙ", "syllables": 2, "targetIndex": 1},
+    {"text": "顏色", "initial": "ㄙ", "syllables": 2, "targetIndex": 1}
+  ]
+}

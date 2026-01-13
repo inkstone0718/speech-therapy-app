@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>華語構音線上測試系統</title>
+    <link rel="stylesheet" href="style.css">
+    <meta name="description" content="為語言治療師設計的華語構音練習工具，可依據目標聲母和音節位置搜尋詞彙">
+    <meta name="keywords" content="語言治療,構音,華語,聲母,音節">
+    
+    <!-- PWA Support -->
+    <meta name="theme-color" content="#4CAF50">
+    <link rel="manifest" href="manifest.json">
+</head>
+
+<body>
+
+    <div class="container">
+        <header>
+            <h1>華語構音線上測試系統</h1>
+            <p>在此介面依據目標音聲母音素種類以及目標音在音節的位置可查找詞語和相關的圖片。</p>
+        </header>
+
+        <div class="control-panel">
+
+            <div class="search-section">
+                <h3>搜尋設定</h3>
+
+                <div class="input-group">
+                    <label>指定注音聲母 [cite: 32]：</label>
+                    <select id="targetInitial">
+                        <option value="" disabled selected>請選擇聲母</option>
+                        <option value="ㄅ">ㄅ (B)</option>
+                        <option value="ㄆ">ㄆ (P)</option>
+                        <option value="ㄇ">ㄇ (M)</option>
+                        <option value="ㄈ">ㄈ (F)</option>
+                        <option value="ㄉ">ㄉ (D)</option>
+                        <option value="ㄊ">ㄊ (T)</option>
+                        <option value="ㄋ">ㄋ (N)</option>
+                        <option value="ㄌ">ㄌ (L)</option>
+                        <option value="ㄍ">ㄍ (G)</option>
+                        <option value="ㄎ">ㄎ (K)</option>
+                        <option value="ㄏ">ㄏ (H)</option>
+                        <option value="ㄐ">ㄐ (J)</option>
+                        <option value="ㄑ">ㄑ (Q)</option>
+                        <option value="ㄒ">ㄒ (X)</option>
+                        <option value="ㄓ">ㄓ (Zh)</option>
+                        <option value="ㄔ">ㄔ (Ch)</option>
+                        <option value="ㄕ">ㄕ (Sh)</option>
+                        <option value="ㄖ">ㄖ (R)</option>
+                        <option value="ㄗ">ㄗ (Z)</option>
+                        <option value="ㄘ">ㄘ (C)</option>
+                        <option value="ㄙ">ㄙ (S)</option>
+                    </select>
+                </div>
+
+                <div class="input-group">
+                    <label>詞彙音節數與位置 [cite: 7, 12]：</label>
+                    <select id="positionType">
+                        <option value="2-1">雙音節詞 - 第 1 個音節</option>
+                        <option value="2-2">雙音節詞 - 第 2 個音節</option>
+                        <option value="3-1">三音節詞 - 第 1 個音節</option>
+                        <option value="3-2">三音節詞 - 第 2 個音節</option>
+                        <option value="3-3">三音節詞 - 第 3 個音節</option>
+                    </select>
+                </div>
+
+                <button onclick="searchWords()">搜尋詞彙</button>
+            </div>
+        </div>
+
+        <hr>
+
+        <div id="resultArea">
+            <h3>搜尋結果：</h3>
+            <div id="gridContainer" class="grid-container">
+            </div>
+            <div id="noResult" style="display:none; color: red;">沒有找到符合條件的詞彙。</div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
