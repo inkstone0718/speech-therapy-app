@@ -6,8 +6,7 @@
       "**/.*",
       "**/node_modules/**",
       "venv/**",
-      "setup_data.py",
-      "images/**"
+      "setup_data.py"
     ],
     "rewrites": [
       {
