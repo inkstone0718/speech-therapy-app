@@ -23,3 +23,13 @@ build/
 # Temporary files
 *.tmp
 *.temp
+
+# 圖片資料夾 (如果太大可以考慮 git-lfs)
+images/
+
+# 下載的圖片暫存
+downloads/
+temp_images/
+
+# Firebase
+.firebase/

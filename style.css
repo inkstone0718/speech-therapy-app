@@ -90,18 +90,62 @@ button:hover {
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
 }
 
-/* 圖片樣式：模擬 flaticon 黑白線條圖的容器 [cite: 28] */
+/* 圖片樣式：容器 */
 .card img {
     width: 100px;
     height: 100px;
     object-fit: contain;
     margin-bottom: 10px;
-    filter: grayscale(100%);
-    /* 強制黑白效果 */
 }
 
 .card .text {
     font-size: 18px;
     font-weight: bold;
     color: #333;
+}
+
+/* 響應式設計 */
+@media (max-width: 768px) {
+    .grid-container {
+        grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+        gap: 15px;
+    }
+    
+    .card img {
+        width: 80px;
+        height: 80px;
+    }
+    
+    .card .text {
+        font-size: 16px;
+    }
+    
+    select {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+}
+
+@media (max-width: 480px) {
+    .container {
+        padding: 15px;
+    }
+    
+    .grid-container {
+        grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+        gap: 10px;
+    }
+    
+    .card img {
+        width: 70px;
+        height: 70px;
+    }
+    
+    .card .text {
+        font-size: 14px;
+    }
+    
+    h1 {
+        font-size: 24px;
+    }
 }

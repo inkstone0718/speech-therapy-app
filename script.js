@@ -190,6 +190,19 @@ function searchWords() {
     }, 100);
 }
 
+// 觸發 Unsplash 下載統計
+function triggerUnsplashDownload(photoId) {
+    // 使用 Unsplash API 觸發下載統計
+    fetch(`https://api.unsplash.com/photos/${photoId}/download?client_id=hB2e4eye8zsvrifF6BG3ryQJhjasDpKe26fUqc4w6kI`)
+        .then(response => response.json())
+        .then(data => {
+            console.log('Unsplash 下載統計已觸發:', data.url);
+        })
+        .catch(error => {
+            console.warn('觸發 Unsplash 下載統計失敗:', error);
+        });
+}
+
 // --- 渲染畫面邏輯 ---
 function renderResults(data) {
     const container = document.getElementById('gridContainer');
@@ -225,18 +238,39 @@ function renderResults(data) {
         const card = document.createElement('div');
         card.className = 'card';
 
-        // 圖片：使用更可靠的 placeholder 服務
+        // 圖片：優先使用資料庫中的 imageUrl (Wikimedia)
+        let imageUrl = item.imageUrl;
+        if (!imageUrl) {
+            imageUrl = window.localImageManager.getImagePath(item.text);
+        }
         const img = document.createElement('img');
-        // 使用 picsum 作為替代方案，加入文字參數確保圖片能區分
-        img.src = `https://picsum.photos/seed/${encodeURIComponent(item.text)}/150/150.jpg`;
+        img.src = imageUrl;
         img.alt = item.text;
+        img.loading = 'lazy';
+        
         img.onerror = function() {
-            // 如果圖片載入失敗，使用文字替代
-            this.style.display = 'none';
-            const textPlaceholder = document.createElement('div');
-            textPlaceholder.style.cssText = 'width: 100px; height: 100px; background: #f0f0f0; display: flex; align-items: center; justify-content: center; margin: 0 auto 10px; border: 1px solid #ddd; border-radius: 4px; font-size: 12px; color: #666;';
-            textPlaceholder.textContent = item.text;
-            this.parentNode.insertBefore(textPlaceholder, this);
+            // 如果圖片載入失敗，使用 HTML5 Canvas 動態生成帶有中文的佔位圖片
+            const canvas = document.createElement('canvas');
+            canvas.width = 150;
+            canvas.height = 150;
+            const ctx = canvas.getContext('2d');
+            
+            // 繪製綠色背景
+            ctx.fillStyle = '#4CAF50';
+            ctx.fillRect(0, 0, canvas.width, canvas.height);
+            
+            // 繪製白色文字
+            ctx.fillStyle = '#FFFFFF';
+            // 使用系統原生中文字體，保證不亂碼
+            ctx.font = 'bold 36px "PingFang TC", "Microsoft JhengHei", "Heiti TC", sans-serif';
+            ctx.textAlign = 'center';
+            ctx.textBaseline = 'middle';
+            ctx.fillText(item.text, canvas.width / 2, canvas.height / 2);
+            
+            // 將 Canvas 轉換為 Base64 圖片並設定為 src
+            this.src = canvas.toDataURL('image/jpeg', 0.8);
+            // 移除 onerror 避免無窮迴圈
+            this.onerror = null;
         };
 
         // 文字標籤

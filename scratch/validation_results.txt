@@ -1,0 +1,26 @@
+Loading vocabulary_edit.json...
+Downloading Jieba dictionary for validation...
+Verifying 1268 unique words...
+Checking 18 words against Moedict online API...
+
+=== Validation Failed! Found issues: ===
+- Category 'ㄅ_3_2': Word '發布權' is unrecognized (not found in seed list, Jieba dictionary, or Moedict). Possible typo!
+- Category 'ㄆ_3_1': Word '排洩物' is unrecognized (not found in seed list, Jieba dictionary, or Moedict). Possible typo!
+- Category 'ㄈ_3_2': Word '衝鋒鎗' is unrecognized (not found in seed list, Jieba dictionary, or Moedict). Possible typo!
+- Category 'ㄉ_3_3': Word '遊擊隊' is unrecognized (not found in seed list, Jieba dictionary, or Moedict). Possible typo!
+- Category 'ㄋ_3_1': Word '泥灰巖' is unrecognized (not found in seed list, Jieba dictionary, or Moedict). Possible typo!
+- Category 'ㄌ_3_1': Word '雷射器' is unrecognized (not found in seed list, Jieba dictionary, or Moedict). Possible typo!
+- Category 'ㄎ_3_2': Word '準考證' is unrecognized (not found in seed list, Jieba dictionary, or Moedict). Possible typo!
+- Category 'ㄏ_3_3': Word '心裡話' is unrecognized (not found in seed list, Jieba dictionary, or Moedict). Possible typo!
+- Category 'ㄐ_3_1': Word '建築群' is unrecognized (not found in seed list, Jieba dictionary, or Moedict). Possible typo!
+- Category 'ㄐ_3_2': Word '遊擊隊' is unrecognized (not found in seed list, Jieba dictionary, or Moedict). Possible typo!
+- Category 'ㄑ_3_3': Word '建築群' is unrecognized (not found in seed list, Jieba dictionary, or Moedict). Possible typo!
+- Category 'ㄒ_3_3': Word '嚴義壎' is unrecognized (not found in seed list, Jieba dictionary, or Moedict). Possible typo!
+- Category 'ㄓ_3_2': Word '建築群' is unrecognized (not found in seed list, Jieba dictionary, or Moedict). Possible typo!
+- Category 'ㄓ_3_3': Word '遊擊戰' is unrecognized (not found in seed list, Jieba dictionary, or Moedict). Possible typo!
+- Category 'ㄓ_3_3': Word '準考證' is unrecognized (not found in seed list, Jieba dictionary, or Moedict). Possible typo!
+- Category 'ㄔ_3_1': Word '衝鋒鎗' is unrecognized (not found in seed list, Jieba dictionary, or Moedict). Possible typo!
+- Category 'ㄖ_3_1': Word '軟體園' is unrecognized (not found in seed list, Jieba dictionary, or Moedict). Possible typo!
+- Category 'ㄙ_3_2': Word '顏料' has length 2 (expected 3).
+
+Please fix the issues in vocabulary_edit.json and run the validation again.

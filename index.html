@@ -12,14 +12,33 @@
     <!-- PWA Support -->
     <meta name="theme-color" content="#4CAF50">
     <link rel="manifest" href="manifest.json">
+    
+    <!-- 🟢 CACHE BUSTER: Auto-unregister service workers to ensure you get the latest code! -->
+    <script>
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.getRegistrations().then(function(registrations) {
+                for(let registration of registrations) {
+                    registration.unregister();
+                }
+            });
+        }
+    </script>
 </head>
 
 <body>
 
     <div class="container">
         <header>
-            <h1>華語構音線上測試系統</h1>
-            <p>在此介面依據目標音聲母音素種類以及目標音在音節的位置可查找詞語和相關的圖片。</p>
+            <h1>🗣️ 語言治療詞彙練習系統</h1>
+            <p class="subtitle">聲母、音節、位置練習工具</p>
+            
+            <!-- 本地使用提示 -->
+            <div id="localTip" style="background: #e3f2fd; border: 1px solid #2196f3; color: #1565c0; padding: 12px; border-radius: 8px; margin: 10px 0; font-size: 14px;">
+                <strong>💡 本地使用提示：</strong><br>
+                為正常顯示圖片和詞彙資料，請使用本地伺服器：<br>
+                <code>python3 -m http.server 8080</code> 然後訪問 <code>http://localhost:8080</code><br>
+                <small>📖 詳見 <a href="README-LOCAL-IMAGES.md" target="_blank">本地圖片使用指南</a></small>
+            </div>
         </header>
 
         <div class="control-panel">
@@ -28,7 +47,7 @@
                 <h3>搜尋設定</h3>
 
                 <div class="input-group">
-                    <label>指定注音聲母 [cite: 32]：</label>
+                    <label for="targetInitial">指定注音聲母 [cite: 32]：</label>
                     <select id="targetInitial">
                         <option value="" disabled selected>請選擇聲母</option>
                         <option value="ㄅ">ㄅ (B)</option>
@@ -56,7 +75,7 @@
                 </div>
 
                 <div class="input-group">
-                    <label>詞彙音節數與位置 [cite: 7, 12]：</label>
+                    <label for="positionType">詞彙音節數與位置 [cite: 7, 12]：</label>
                     <select id="positionType">
                         <option value="2-1">雙音節詞 - 第 1 個音節</option>
                         <option value="2-2">雙音節詞 - 第 2 個音節</option>
@@ -80,7 +99,26 @@
         </div>
     </div>
 
+    <script src="local-image-manager.js"></script>
     <script src="script.js"></script>
-</body>
 
+    <!-- Firebase SDK Setup -->
+    <script type="module">
+        import { initializeApp } from "https://www.gstatic.com/firebasejs/10.8.1/firebase-app.js";
+        import { getAnalytics } from "https://www.gstatic.com/firebasejs/10.8.1/firebase-analytics.js";
+        
+        const firebaseConfig = {
+            apiKey: "AIzaSyCIFQ2Ttcg307PWujDW4y5nidWdJ2Vzluk",
+            authDomain: "speech-therapy-174df.firebaseapp.com",
+            projectId: "speech-therapy-174df",
+            storageBucket: "speech-therapy-174df.firebasestorage.app",
+            messagingSenderId: "184340405026",
+            appId: "1:184340405026:web:ed68fd85f2480d7e81237b",
+            measurementId: "G-KNJHW3G3VR"
+        };
+        
+        const app = initializeApp(firebaseConfig);
+        const analytics = getAnalytics(app);
+    </script>
+</body>
 </html>
